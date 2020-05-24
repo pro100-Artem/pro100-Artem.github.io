@@ -1,3 +1,7 @@
+@font-face{
+	font-family: font1;
+	src: url("10369.ttf");
+}
 body{
 	margin: 0;
 	background-color: #222;
