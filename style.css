@@ -503,3 +503,6 @@ hr{
 	/*position: absolute;*/
 	display: inline-block;
 }
+a{
+	color: white;
+}
