@@ -179,6 +179,7 @@ body{
 	background-color: #222;
 	display: inline-block;
 	margin: 25px;
+	overflow: hidden;
 }
 .box3-card-title{
 	color: #fff;
